@@ -1,5 +1,7 @@
 # Circuit Sim
 
+![Circuit Sim — build and simulate digital circuits in the browser](docs/screenshot.png)
+
 Build electronic circuits in the browser and watch digital signals flow along wires.
 
 ## Run locally
